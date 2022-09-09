@@ -1,0 +1,34 @@
+.home{
+    align-items: flex-end;
+    font-size: 20px;
+    display: flex;
+    justify-content: flex-start;
+    
+  
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+.contact{
+    
+        float: left;
+        margin: 0;
+        padding: 20px;
+     
+}
+
+.products{
+    width: 500px;
+    height: 600px;
+    border-radius: 20px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    border: 5px solid black;
+    margin: 0px 0px 0px 400px;
+}
+/*   */

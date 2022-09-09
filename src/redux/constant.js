@@ -1,0 +1,28 @@
+export const ADD_TO_CART="ADD_TO_CART"
+export const REMOVE_FROM_CART="REMOVE_FROM_CART"
+export const EMPTY_CART="EMPTY_CART"
+export const PRODUCT_LIST="PRODUCT_LIST"
+export const SET_PRODUCT_LIST="SET_PRODUCT_LIST"
+export const SEARCH_PRODUCT="SEARCH_PRODUCT"
+export const PRODUCT_LIST2="PRODUCT_LIST2"
+export const SET_PRODUCT_LIST2="SET_PRODUCT_LIST2"
+export const PRODUCT_LIST1 = "PRODUCT_LIST1";
+export const SET_PRODUCT_LIST1 = "SET_PRODUCT_LIST1";
+export const PRODUCT_LIST3 = "PRODUCT_LIST3";
+export const SET_PRODUCT_LIST3 = "SET_PRODUCT_LIST3";
+export const ADD_TO_VIEW1 = "ADD_TO_VIEW1";
+
+export const RESET_ITEM = "RESET_ITEM";
+export const SET_RESET_ITEM = "RESET_ITEM";
+
+
+
+
+
+
+
+
+
+
+
+
